@@ -1,1 +1,1 @@
-![diag](.image/diag.png)
+![diag](./image/diag.png)
